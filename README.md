@@ -1,2 +1,1 @@
-# cosmos.qemu
-run cosmos iso cd on qemu, run cosmos cd on qemu bash script
+Optical laser simulator , use mirrors to leave the source to output
